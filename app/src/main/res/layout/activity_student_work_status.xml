@@ -86,7 +86,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="400px"
                 android:background="@drawable/shape"
-                android:text="Title: Proposal presentation slide\nDue date: 16 January 2023\nStatus: Pending"
+                android:text="Title: Proposal slide\nDue date: 16 January 2023\nStatus: Pending"
                 android:lineHeight="32dp"
                 android:textColor="@color/black"
                 android:textSize="20dp"
