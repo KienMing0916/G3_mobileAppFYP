@@ -42,7 +42,7 @@
             <TextView
                 android:id="@+id/notice_tv1"
                 android:layout_width="match_parent"
-                android:layout_height="370px"
+                android:layout_height="400px"
                 android:background="@drawable/shape"
                 android:text="Student name:\nTitle:\nMarks:"
                 android:lineHeight="32dp"
